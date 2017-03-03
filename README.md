@@ -34,5 +34,5 @@ This guide is a living document and additions to it will be made over time as ne
 
 ## Credits and 🙏 
 
-Thanks to my employer [Xebia](https://xebia.com/) for giving me opportunity to work with latest technologies and providing platform to become better technologist. If you are interested in working with us, then you can share your resume at sgulati@xebia.com.
+Thanks to my employer [Xebia](https://xebia.com/) for giving me opportunity to work with latest technologies. If you are interested in working with us, then you can share your resume at sgulati@xebia.com.
 
