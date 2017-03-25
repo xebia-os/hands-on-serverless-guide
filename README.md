@@ -15,6 +15,5 @@ I plan to cover different Serverless providers and tools in the Serverless ecosy
 1. [Shekhar Gulati](https://twitter.com/shekhargulati)
 
 ## Thanks
-
 Thanks to my employer [Xebia](https://xebia.com/) for giving me opportunity to work with latest technologies. If you are interested in working with us, then you can share your resume at sgulati@xebia.com.
 
