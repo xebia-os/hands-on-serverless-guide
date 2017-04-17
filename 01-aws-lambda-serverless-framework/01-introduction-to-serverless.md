@@ -105,7 +105,7 @@ To build `coding-round-evaluator`, I decided to use Serverless architecture. The
 
 Before we start building the application, let's understand the concept of Serverless and ecosystem around it. 
 
-![](images/Coding Round Evaluator.png)
+![](images/coding-round-evaluator.png)
 
 ## Conclusion
 
