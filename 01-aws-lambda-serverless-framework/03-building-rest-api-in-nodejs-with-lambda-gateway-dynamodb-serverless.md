@@ -75,7 +75,7 @@ functions:
 
 ```
 
-Next, create a new directory api inside the candidate-service directory. Move the handler.js to the api directory. Rename handler.js to candidate.js and rename handle to submit.
+Next, create a new directory api inside the candidate-service directory. Move the handler.js to the api directory. Rename handler.js to candidates.js and rename handle to submit.
 
 ```javascript
 'use strict';
