@@ -51,9 +51,9 @@ Some people say,
 
 The three popular Serverless public cloud solutions are:
 
-1.  [AWS Lambda](https://aws.amazon.com/lambda/): It is the third compute service from Amazon. It is very different from the existing two compute services EC2 (Elastic Compute Cloud) and ECS (Elastic Container Service). AWS Lambda is an event-driven, serverless computing platform that executes your code in response to events. It manages the underlying infrastructure scaling it up or down to meet the event rate. You are only charged for the time your code is executed. AWS Lambda currently supports Java, Python, and Node.js language runtimes. 
-2.  [MicroSoft Azure Functions](https://azure.microsoft.com/en-in/services/functions/): An event-based serverless compute experience to accelerate your development. It can scale based on demand and you pay only for the resources you consume.
-3.  [Google Cloud Functions](https://cloud.google.com/functions/): A lightweight, event-based, asynchronous compute solution that allows you to create small, single-purpose functions that respond to cloud events without the need to manage a server or a runtime environment. Events from Google Cloud Storage and Google Cloud Pub/Sub can trigger Cloud Functions asynchronously, or you can use HTTP invocation for synchronous execution.
+1. [AWS Lambda](https://aws.amazon.com/lambda/): It is the third compute service from Amazon. It is very different from the existing two compute services EC2 (Elastic Compute Cloud) and ECS (Elastic Container Service). AWS Lambda is an event-driven, serverless computing platform that executes your code in response to events. It manages the underlying infrastructure scaling it up or down to meet the event rate. You are only charged for the time your code is executed. AWS Lambda currently supports Java, Python, and Node.js language runtimes. 
+2. [MicroSoft Azure Functions](https://azure.microsoft.com/en-in/services/functions/): An event-based serverless compute experience to accelerate your development. It can scale based on demand and you pay only for the resources you consume.
+3. [Google Cloud Functions](https://cloud.google.com/functions/): A lightweight, event-based, asynchronous compute solution that allows you to create small, single-purpose functions that respond to cloud events without the need to manage a server or a runtime environment. Events from Google Cloud Storage and Google Cloud Pub/Sub can trigger Cloud Functions asynchronously, or you can use HTTP invocation for synchronous execution.
 
 
 ## Open-source Serverless implementations
