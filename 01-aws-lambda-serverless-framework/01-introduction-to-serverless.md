@@ -23,11 +23,12 @@ In this article series, we will build an online code evaluator that organization
 
 To understand Serverless, you should understand what it offers and the kind of application architecture it enables.
 
+
 ## What does Serverless offer?
 
 Serverless offers us freedom from provisioning and managing servers. When many organisations moved to the cloud, they began managing virtual servers instead of physical servers, but they still managed servers. Containers moved the abstraction one level up but the way most organizations use containers is like a long lived process so you still have to manage them. A container is a process level abstraction that is managed by an orchestration tool like Kubernetes or Docker Swarm.  It is all about the level of abstraction. With Serverless, you get the highest possible abstraction.
 
-### What kind of application architectures does Serverless enable?
+### What characteristics does a Serverless architecture enable?
 
 Serverless enables (or forces) you to write applications that are:
 
