@@ -49,6 +49,7 @@ provider:
         - dynamodb:Scan
         - dynamodb:GetItem
         - dynamodb:PutItem
+        - ses:SendEmail
       Resource: "*"
 ```
 
