@@ -135,7 +135,6 @@ As we discussed in previous post, we are using Serverless framework to build the
           cors: true
           private: true
       ```
-   ```
 
 2. Once you have enabled API key security for your API methods then you should specify name of the API key under the `apiKeys` property of the provider object as shown below.
 
